@@ -4,8 +4,6 @@
     "service": "vscode",
     "runServices": ["vscode"],
     "shutdownAction": "stopCompose",
-    "postCreateCommand": "~/.windows.sh",
-    "workspaceFolder": "/workspace",
     // "overrideCommand": "",
     "extensions": [
         "rust-lang.rust-analyzer",
